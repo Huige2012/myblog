@@ -63,6 +63,12 @@
       left: 0px;
       font-size: 14px;
       line-height: 30px;
+      color: #ddd;
+      
+    }
+
+    .txt b{
+      color:#fff;
     }
 
     .txt2 {

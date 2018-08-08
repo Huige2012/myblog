@@ -19,7 +19,7 @@ $(function () {
       var pass = dayCount / 365 * 100;
       var progress = 100 - pass;
 
-      $('#pass').html(pass.toFixed(2));
+      $('#pass').html(progress.toFixed(2));
       $("#yProgress").css({ 'width': progress + '%' });
 
 
